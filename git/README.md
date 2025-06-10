@@ -1,1 +1,1 @@
-Creating README inside git
+Not an empty README inside git
